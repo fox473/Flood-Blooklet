@@ -1,7 +1,7 @@
 //defining vars
-let nameOfbot = prompt("Name of bots: ")
-let gameId = prompt("Enter Game Pin: ");
-let numberOfBots = prompt("How many Bots: ")
+let nameOfbot = prompt("gay: ")
+let gameId = prompt("2087991: ");
+let numberOfBots = prompt("10: ")
 let botsToJoin;
 
 //Credit
@@ -10,7 +10,7 @@ console.log('%c Created by Sean v  :D', 'background: #222; color: yellow');
 
 
 // Making a for loop for flood
-for(botsToJoin = 0; botsToJoin < numberOfBots; botsToJoin++)
+for(botsToJoin = 10; botsToJoin < numberOfBots; botsToJoin++)
 
 fetch("https://api.blooket.com/api/firebase/join", {
   "headers": {
